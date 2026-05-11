@@ -40,9 +40,11 @@
 - 独立部署版本可扫码即用
 
 ### 技术亮点
-- 微信风格 UI 到现代化大厂级设计迭代
-- HashRouter 解决静态托管 SPA 刷新 404
-- GitHub API 作为持久化存储
+- 全栈 **React 18 + TypeScript + Express** 架构，前后端分离部署
+- **TailwindCSS** 大厂级 UI 设计，响应式布局，力消除 emoji 用 SVG 图标替代
+- **SVG 雷达图** 纯手工实现，零依赖，九维数据可视化
+- **HashRouter** 解决 GitHub Pages 静态托管 SPA 刷新 404 问题
+- 对话记录**客户端 localStorage 存储**，保护用户隐私
 
 ## 技术栈
 
